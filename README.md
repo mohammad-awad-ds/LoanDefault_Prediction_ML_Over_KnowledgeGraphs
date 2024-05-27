@@ -1,5 +1,5 @@
 
-# Machine Learning and Explainable AI Projects
+# Leveraging Knowledge Graphs for Loan Default Prediction
 
 This repository contains a collection of Jupyter notebooks showcasing our research work on machine learning over Knowledge graph projects. Each notebook demonstrates different techniques and approaches for working with data and building models.
 
