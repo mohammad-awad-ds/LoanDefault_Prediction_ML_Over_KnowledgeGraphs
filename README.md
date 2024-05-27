@@ -13,7 +13,7 @@ This repository contains a collection of Jupyter notebooks showcasing our resear
 
 2. **Knowledge Graph Embedding and Machine Learning**
    - Filename: `kg_embading_and_ml.ipynb`
-     - colab : https://colab.research.google.com/drive/1nwdoDBYPt2HhfT9LDNYzBZYHUi5L7h1u?usp=sharing
+     - colab :[ https://colab.research.google.com/drive/1nwdoDBYPt2HhfT9LDNYzBZYHUi5L7h1u?usp=sharing](https://colab.research.google.com/drive/1zDx2LQzbPU1BjknOq6_e6Wgj3y_5eASh?usp=sharing)
    - Description: This notebook delves into the integration of knowledge graph embeddings with machine learning models. It demonstrates generating embeddings, use these embeddings as features in machine learning algorithms for improved performance, and evaluating those predctions.
 
 3. **kg preprocessing file**
