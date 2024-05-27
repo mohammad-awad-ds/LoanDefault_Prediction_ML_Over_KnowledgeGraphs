@@ -31,16 +31,7 @@ To run these notebooks locally, follow these steps:
    cd ml-xai-projects
    ```
 
-2. **Set up the environment:**
-
-   Make sure you have Python installed. It is recommended to use a virtual environment to manage dependencies.
-
-   ```sh
-   python -m venv venv
-   source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-   ```
-
-3. **Install the required packages:**
+2. **Install the required packages:**
 
    Install the necessary Python packages using `pip`:
 
@@ -49,7 +40,7 @@ To run these notebooks locally, follow these steps:
       pip install pyrdftovec
    ```
 
-4. **Run the notebook by order:**
+3. **Run the notebook by order:**
 
    Launch Jupyter Notebook or JupyterLab to explore the notebooks.
 order: XAI_Project_24052024_WIP, then kg_embading_and_ml, then normal_ml_on_csv
