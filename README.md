@@ -1,7 +1,7 @@
 
 # Leveraging Knowledge Graphs for Loan Default Prediction
 
-This repository contains a collection of Jupyter notebooks showcasing our research work on machine learning over Knowledge graph projects. Each notebook demonstrates different techniques and approaches for working with data and building models.
+This repository contains a collection of Jupyter notebooks showcasing our research work on machine learning over Knowledge graph team project. Each notebook demonstrates different techniques and approaches for working with data and building models.
 
 ## Contents
 
@@ -52,6 +52,3 @@ order: XAI_Project_24052024_WIP, then kg_embading_and_ml, then normal_ml_on_csv
    # or
    jupyter lab
    ```
-
-
-Happy coding!
